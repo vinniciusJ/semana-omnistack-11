@@ -1,0 +1,6 @@
+ * Usar div para tudo
+ * Não existe semântica no React Native
+ * Objeto para estilização
+ * Não precisar user o display: flex (Todos por padrão tem flex como atributo)
+ * Não existe herança de estilos
+ * 
